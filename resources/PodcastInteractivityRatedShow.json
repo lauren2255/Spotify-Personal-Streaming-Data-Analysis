@@ -1,0 +1,34 @@
+{
+  "ratedShows": [
+    {
+      "showName": "FluentlyForward",
+      "rating": 5,
+      "ratedAt": "2022-02-17T03:13:32.949285Z"
+    },
+    {
+      "showName": "Lily",
+      "rating": 5,
+      "ratedAt": "2022-04-08T19:10:01.446054Z"
+    },
+    {
+      "showName": "Narcissa",
+      "rating": 5,
+      "ratedAt": "2022-08-02T18:23:33.929068Z"
+    },
+    {
+      "showName": "The Broski Report with Brittany Broski",
+      "rating": 5,
+      "ratedAt": "2023-10-19T13:22:11.926261786Z"
+    },
+    {
+      "showName": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+      "rating": 5,
+      "ratedAt": "2023-02-06T23:04:05.666310Z"
+    },
+    {
+      "showName": "This Might Get Weird",
+      "rating": 5,
+      "ratedAt": "2022-11-10T02:02:16.698090Z"
+    }
+  ]
+}
