@@ -5,6 +5,7 @@ In this project, I conducted an in-depth analysis and visualization of my person
 
 ## Data Cleaning
 To prepare the data for analysis, I performed various data cleaning tasks, including:
+- Reading in json files as data frames
 - Converting timestamps to datetime objects
 - Handling missing values
 - Extracting relevant features
