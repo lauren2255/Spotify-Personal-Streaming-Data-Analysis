@@ -32,6 +32,8 @@ Overall, this project provides valuable insights into my streaming habits on Spo
 
 Please refer to the provided Python scripts for the detailed implementation of data cleaning, analysis, and visualization techniques used in this project.
 
+I obtained my own streaming data from Spotify's website under Account/Privacy Settings/Download your data.
+
 # Code Source
 This code was authored by Lauren Ables-Torres with assistance from ChatGPT.
-This project took 3 hours.
+This project took 4 hours.
