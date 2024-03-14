@@ -1,12 +1,13 @@
 # Ignore all JSON files
-*.json
+resources/*.json
 
-# Except streaming1.json and streaming2.json
-!StreamingHistory_music_0.json
-!StreamingHistory_music_1.json
-!StreamingHistory_music_2.json
-!StreamingHistory_podcast_0.json
+# Except
+!resources/StreamingHistory_music_0.json
+!resources/StreamingHistory_music_1.json
+!resources/StreamingHistory_music_2.json
+!resources/StreamingHistory_podcast_0.json
 
+Read_Me_First.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
